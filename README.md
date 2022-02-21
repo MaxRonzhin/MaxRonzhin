@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Max Ronzhin (nickname: Godleib / Gudleifr)</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer+from+Russia&center=true&width=380&height=50">
+</p>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react)](https://github.com/MaxRonzhin/foodgram-project-react)
