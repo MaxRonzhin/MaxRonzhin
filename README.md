@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Max Ronzhin (nickname: Godleib / Gudleifr)</a> 
+<h1 align="center">Hi there </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer+from+Russia&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Max+Ronzhin+(nickname:%20MaxRonzhin)+i`m+Python+Developer&center=true&width=380&height=50">
 </p>
 
 
