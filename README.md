@@ -40,10 +40,9 @@ Telegram-бот для получения статуса домашней раб
 
 ## Мои контакты:
 
-<a href="mailto:mronzhin@bk.ru">Mail</a>
+<a href="mailto:mronzhin@bk.ru">Mail mronzhin@bk.ru</a>
 <br>
-<script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="//telegram.im/widget-button/index.php?id=@mronzhin";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
-<a href="https://telegram.im/@maxronzhin" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:26px;width:190px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#20124d;border-radius:50px;" title=""><i></i> @maxronzhin</a>
+<a href="https://telegram.im/@maxronzhin" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:26px;width:190px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#20124d;border-radius:50px;" title=""><i></i> Telegramim @maxronzhin</a>
 
 <!-- <a href="tg://resolve?domain=@mronzhin">Telegram</a> -->
 
