@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, </a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">my name is Max Ronzhin (nickname: MaxRonzhin)</a> </h1>
+<h2 align="center">i`m Python developer</a> </h2>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+coming!&center=true&width=380&height=50">
 </p>
-<h1 align="center">my name is Max Ronzhin (nickname: MaxRonzhin)</a> 
-<h2 align="center">i`m Python developer</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 
