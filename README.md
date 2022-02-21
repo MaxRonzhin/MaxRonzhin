@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, </a> 
+<h1 align="center">Hi there, 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2 align="center">my name is Max Ronzhin (nickname: MaxRonzhin)</a> </h2>
-<h3 align="center">i`m Python developer</a> </h3>
+<h2 align="center">my name is Max Ronzhin (nickname: MaxRonzhin)</h2>
+<h3 align="center">i`m Python developer </h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+coming!&center=true&width=380&height=50">
 </p>
@@ -10,6 +10,7 @@
 # Проекты:
 <a href="https://github.com/MaxRonzhin/foodgram-project-react">
 Foodgram, «Продуктовый помощник». Сервис для публикации рецептов.
+<br>
 </a>
 <a href="https://github.com/MaxRonzhin/yamdb_final">
   Проект YaMDb - собирает отзывы пользователей на произведения («Книги», «Фильмы», «Музыка»).
