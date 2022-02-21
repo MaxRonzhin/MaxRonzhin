@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react)](https://github.com/MaxRonzhin/foodgram-project-react)
+
+
+
 <!--
 **MaxRonzhin/MaxRonzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
