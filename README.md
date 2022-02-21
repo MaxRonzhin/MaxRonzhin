@@ -1,7 +1,8 @@
-<h1 align="center">Hi there </a> 
+<h1 align="center">Hi there, my name is Max Ronzhin (nickname: MaxRonzhin)</a> 
+<h2 align="center">i`m Python developer</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=My+name+is+Max+Ronzhin+(nickname:%20MaxRonzhin)+i`m+Python+Developer&center=true&width=380">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+coming!&center=true&width=380&height=50">
 </p>
 
 
