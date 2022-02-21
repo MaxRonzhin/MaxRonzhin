@@ -7,12 +7,12 @@
 </p>
 
 
-# Demo:
+# Проекты:
 <a href="https://github.com/MaxRonzhin/foodgram-project-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react" />
+Foodgram, «Продуктовый помощник». Сервис для публикации рецептов.
 </a>
 <a href="https://github.com/MaxRonzhin/yamdb_final">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=yamdb_final" />
+  Проект YaMDb - собирает отзывы пользователей на произведения («Книги», «Фильмы», «Музыка»).
 </a>
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react)](https://github.com/MaxRonzhin/foodgram-project-react)
