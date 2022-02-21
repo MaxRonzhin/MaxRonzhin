@@ -8,9 +8,16 @@
 
 
 # Demo:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react)](https://github.com/MaxRonzhin/foodgram-project-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=yamdb_final)](https://github.com/MaxRonzhin/yamdb_final)
+<a href="https://github.com/MaxRonzhin/foodgram-project-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react" />
+</a>
+<a href="https://github.com/MaxRonzhin/yamdb_final">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=yamdb_final" />
+</a>
 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react)](https://github.com/MaxRonzhin/foodgram-project-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=yamdb_final)](https://github.com/MaxRonzhin/yamdb_final)
+ -->
 
 <!--
 **MaxRonzhin/MaxRonzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
