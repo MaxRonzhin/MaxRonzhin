@@ -38,6 +38,16 @@ Telegram-бот для получения статуса домашней раб
 [![GitHub%20Actions](https://img.shields.io/badge/-GitHub%20Actions-464646?style=flat-square&logo=GitHub%20actions)](https://github.com/features/actions)
 [![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-464646?style=flat-square&logo=Yandex.Cloud)](https://cloud.yandex.ru/)
 
+## Мои контакты:
+
+<a href="mailto:mronzhin@bk.ru">Mail</a>
+
+<script type="text/javascript">(function() {var script=document.createElement("script");script.type="text/javascript";script.async =true;script.src="//telegram.im/widget-button/index.php?id=@mronzhin";document.getElementsByTagName("head")[0].appendChild(script);})();</script>
+<a href="https://telegram.im/@mronzhin" target="_blank" class="telegramim_button telegramim_shadow telegramim_pulse" style="font-size:26px;width:190px;background:#27A5E7;box-shadow:1px 1px 5px #27A5E7;color:#20124d;border-radius:50px;" title=""><i></i> @mronzhin</a>
+
+<!-- <a href="tg://resolve?domain=@mronzhin">Telegram</a> -->
+
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=foodgram-project-react)](https://github.com/MaxRonzhin/foodgram-project-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MaxRonzhin&repo=yamdb_final)](https://github.com/MaxRonzhin/yamdb_final)
