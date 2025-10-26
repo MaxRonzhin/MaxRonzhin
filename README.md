@@ -8,6 +8,13 @@
 
 
 ## Проекты:
+<a href="https://github.com/MaxRonzhin/foodgram-project-react](https://github.com/MaxRonzhin/FastAPI_video-conference">
+WebRTC-приложение для видеоконференций.
+<br>
+</a><a href="https://github.com/MaxRonzhin/foodgram-project-react">
+Foodgram, «Продуктовый помощник». Сервис для публикации рецептов.
+<br>
+</a>
 <a href="https://github.com/MaxRonzhin/foodgram-project-react">
 Foodgram, «Продуктовый помощник». Сервис для публикации рецептов.
 <br>
